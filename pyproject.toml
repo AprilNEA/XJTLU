@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "xjtlu"
+version = "0.1.0"
+description = "This is how to get all the network resources of XJTLU"
+authors = ["AprilNEA <github@sku.moe>"]
+license = "GPL-3"
+readme = "README.md"
+homepage = "https://github.com/AprilNEA/XJTLU"
+repository = "https://github.com/AprilNEA/XJTLU"
+keywords = ["XJTLU"]
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4"
+aiohttp = "^3.8.6"
+fake-useragent = "^1.3.0"
+beautifulsoup4 = "^4.12.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
