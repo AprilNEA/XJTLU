@@ -3,8 +3,8 @@
 ## Terms and Conditions
 
 > [!WARNING]
-> This project is open source under the GPL-3.0 license without any warranty, i.e.:**The authors and all contributors to
-this project will not provide any technical support and will not be responsible for any damages you may incur!**.
+> This project is open source under the GPL-3.0 license without any warranty, i.e.:**The authors and all contributors to this project will not provide any technical support and will not be responsible for any damages you may incur!**.
+>
 > If you are using this project for data crawling work, please be sure to read the Terms and Conditions of Service (ToS)
 > of the relevant object first.
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
 ## FAQ
 
-**What's this? **
+**What's this?**
 
 I don't know.
 
